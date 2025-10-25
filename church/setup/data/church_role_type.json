@@ -1,27 +1,27 @@
 [
- {
-  "doctype": "Church Role Type",
-  "name": "Elder - 00002",
-  "role": "Elder"
- },
- {
-  "doctype": "Church Role Type",
-  "name": "Pastor - 00001",
-  "role": "Pastor"
- },
- {
-  "doctype": "Church Role Type",
-  "name": "Treasurer - 00004",
-  "role": "Treasurer"
- },
- {
-  "doctype": "Church Role Type",
-  "name": "Secretary - 00005",
-  "role": "Secretary"
- },
- {
-  "doctype": "Church Role Type",
-  "name": "Deacon - 00003",
-  "role": "Deacon"
- }
+  {
+    "doctype": "Church Role Type",
+    "name": "Elder - 00002",
+    "role": "Elder"
+  },
+  {
+    "doctype": "Church Role Type",
+    "name": "Pastor - 00001",
+    "role": "Pastor"
+  },
+  {
+    "doctype": "Church Role Type",
+    "name": "Treasurer - 00004",
+    "role": "Treasurer"
+  },
+  {
+    "doctype": "Church Role Type",
+    "name": "Secretary - 00005",
+    "role": "Secretary"
+  },
+  {
+    "doctype": "Church Role Type",
+    "name": "Deacon - 00003",
+    "role": "Deacon"
+  }
 ]

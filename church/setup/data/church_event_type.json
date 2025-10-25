@@ -1,32 +1,32 @@
 [
- {
-  "doctype": "Church Event Type",
-  "name": "Sunday Evening Service",
-  "type": "Sunday Evening Service"
- },
- {
-  "doctype": "Church Event Type",
-  "name": "Prayer Meeting",
-  "type": "Prayer Meeting"
- },
- {
-  "doctype": "Church Event Type",
-  "name": "Baptism",
-  "type": "Baptism"
- },
- {
-  "doctype": "Church Event Type",
-  "name": "Business Meeting",
-  "type": "Business Meeting"
- },
- {
-  "doctype": "Church Event Type",
-  "name": "Sunday Morning Service",
-  "type": "Sunday Morning Service"
- },
- {
-  "doctype": "Church Event Type",
-  "name": "Communion",
-  "type": "Communion"
- }
+  {
+    "doctype": "Church Event Type",
+    "name": "Sunday Evening Service",
+    "type": "Sunday Evening Service"
+  },
+  {
+    "doctype": "Church Event Type",
+    "name": "Prayer Meeting",
+    "type": "Prayer Meeting"
+  },
+  {
+    "doctype": "Church Event Type",
+    "name": "Baptism",
+    "type": "Baptism"
+  },
+  {
+    "doctype": "Church Event Type",
+    "name": "Business Meeting",
+    "type": "Business Meeting"
+  },
+  {
+    "doctype": "Church Event Type",
+    "name": "Sunday Morning Service",
+    "type": "Sunday Morning Service"
+  },
+  {
+    "doctype": "Church Event Type",
+    "name": "Communion",
+    "type": "Communion"
+  }
 ]

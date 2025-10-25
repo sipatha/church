@@ -39,6 +39,17 @@ def church_data():
 			for _, record in enumerate(data, start = 1):
 				doc = frappe.get_doc(**record)
 
-				doc.insert()
+				dt = record["doctype"]
+				name = record["name"]
+
+				if not name:
+					doc.insert()
+				else:
+					exists = frappe.db.exists(dt, name)
+
+					if exists:
+						doc.save()
+					else:
+						doc.insert()
 
 			frappe.db.commit()

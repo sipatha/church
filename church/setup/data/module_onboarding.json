@@ -1,70 +1,70 @@
 [
- {
-  "allow_roles": [
-   {
-    "parent": "Church",
-    "parentfield": "allow_roles",
-    "parenttype": "Module Onboarding",
-    "role": "Administrator"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "allow_roles",
-    "parenttype": "Module Onboarding",
-    "role": "Church Manager"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "allow_roles",
-    "parenttype": "Module Onboarding",
-    "role": "Church User"
-   }
-  ],
-  "doctype": "Module Onboarding",
-  "documentation_url": "https://github.com/meichthys/church",
-  "is_complete": 0,
-  "module": "Church Foundations",
-  "name": "Church",
-  "steps": [
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Manager"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Information"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Person"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Family"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Event"
-   },
-   {
-    "parent": "Church",
-    "parentfield": "steps",
-    "parenttype": "Module Onboarding",
-    "step": "Church Prayer Request"
-   }
-  ],
-  "subtitle": "People, Families, Events, Ministries, Collections, and more...",
-  "success_message": "Your Church is setup! 🎉 May God grow your ministry 🙏",
-  "title": "⛪ Let's Set Up Your Church."
- }
+  {
+    "allow_roles": [
+      {
+        "parent": "Church",
+        "parentfield": "allow_roles",
+        "parenttype": "Module Onboarding",
+        "role": "Administrator"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "allow_roles",
+        "parenttype": "Module Onboarding",
+        "role": "Church Manager"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "allow_roles",
+        "parenttype": "Module Onboarding",
+        "role": "Church User"
+      }
+    ],
+    "doctype": "Module Onboarding",
+    "documentation_url": "https://github.com/meichthys/church",
+    "is_complete": 0,
+    "module": "Church Foundations",
+    "name": "Church",
+    "steps": [
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Manager"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Information"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Person"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Family"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Event"
+      },
+      {
+        "parent": "Church",
+        "parentfield": "steps",
+        "parenttype": "Module Onboarding",
+        "step": "Church Prayer Request"
+      }
+    ],
+    "subtitle": "People, Families, Events, Ministries, Collections, and more...",
+    "success_message": "Your Church is setup! 🎉 May God grow your ministry 🙏",
+    "title": "⛪ Let's Set Up Your Church."
+  }
 ]

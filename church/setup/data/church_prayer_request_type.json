@@ -1,26 +1,26 @@
 [
- {
-  "description": "A praise (not a request for prayer)",
-  "doctype": "Church Prayer Request Type",
-  "name": "Praise",
-  "type": "Praise"
- },
- {
-  "description": "Related to the health of a `Church Person`",
-  "doctype": "Church Prayer Request Type",
-  "name": "Health",
-  "type": "Health"
- },
- {
-  "description": "Related to an unspecified topic",
-  "doctype": "Church Prayer Request Type",
-  "name": "Unspoken",
-  "type": "Unspoken"
- },
- {
-  "description": "Related to the salvation of a `Church Person`",
-  "doctype": "Church Prayer Request Type",
-  "name": "Salvation",
-  "type": "Salvation"
- }
+  {
+    "description": "A praise (not a request for prayer)",
+    "doctype": "Church Prayer Request Type",
+    "name": "Praise",
+    "type": "Praise"
+  },
+  {
+    "description": "Related to the health of a `Church Person`",
+    "doctype": "Church Prayer Request Type",
+    "name": "Health",
+    "type": "Health"
+  },
+  {
+    "description": "Related to an unspecified topic",
+    "doctype": "Church Prayer Request Type",
+    "name": "Unspoken",
+    "type": "Unspoken"
+  },
+  {
+    "description": "Related to the salvation of a `Church Person`",
+    "doctype": "Church Prayer Request Type",
+    "name": "Salvation",
+    "type": "Salvation"
+  }
 ]

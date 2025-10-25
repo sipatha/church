@@ -1,122 +1,122 @@
 [
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Uncle",
-  "relation_type": "Uncle"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Stepsister",
-  "relation_type": "Stepsister"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Stepmother",
-  "relation_type": "Stepmother"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Stepfather",
-  "relation_type": "Stepfather"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Stepbrother",
-  "relation_type": "Stepbrother"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Son",
-  "relation_type": "Son"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Sister-in-law",
-  "relation_type": "Sister-in-law"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Niece",
-  "relation_type": "Niece"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Nephew",
-  "relation_type": "Nephew"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Mother-in-law",
-  "relation_type": "Mother-in-law"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Grandson",
-  "relation_type": "Grandson"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Grandmother",
-  "relation_type": "Grandmother"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Grandfather",
-  "relation_type": "Grandfather"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Granddaughter",
-  "relation_type": "Granddaughter"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Father-in-law",
-  "relation_type": "Father-in-law"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Daughter",
-  "relation_type": "Daughter"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Brother-in-law",
-  "relation_type": "Brother-in-law"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Aunt",
-  "relation_type": "Aunt"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Father",
-  "relation_type": "Father"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Mother",
-  "relation_type": "Mother"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Sister",
-  "relation_type": "Sister"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Wife",
-  "relation_type": "Wife"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Husband",
-  "relation_type": "Husband"
- },
- {
-  "doctype": "Church Person Relation Type",
-  "name": "Brother",
-  "relation_type": "Brother"
- }
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Uncle",
+    "relation_type": "Uncle"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Stepsister",
+    "relation_type": "Stepsister"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Stepmother",
+    "relation_type": "Stepmother"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Stepfather",
+    "relation_type": "Stepfather"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Stepbrother",
+    "relation_type": "Stepbrother"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Son",
+    "relation_type": "Son"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Sister-in-law",
+    "relation_type": "Sister-in-law"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Niece",
+    "relation_type": "Niece"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Nephew",
+    "relation_type": "Nephew"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Mother-in-law",
+    "relation_type": "Mother-in-law"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Grandson",
+    "relation_type": "Grandson"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Grandmother",
+    "relation_type": "Grandmother"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Grandfather",
+    "relation_type": "Grandfather"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Granddaughter",
+    "relation_type": "Granddaughter"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Father-in-law",
+    "relation_type": "Father-in-law"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Daughter",
+    "relation_type": "Daughter"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Brother-in-law",
+    "relation_type": "Brother-in-law"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Aunt",
+    "relation_type": "Aunt"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Father",
+    "relation_type": "Father"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Mother",
+    "relation_type": "Mother"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Sister",
+    "relation_type": "Sister"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Wife",
+    "relation_type": "Wife"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Husband",
+    "relation_type": "Husband"
+  },
+  {
+    "doctype": "Church Person Relation Type",
+    "name": "Brother",
+    "relation_type": "Brother"
+  }
 ]

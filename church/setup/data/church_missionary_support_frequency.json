@@ -1,38 +1,38 @@
 [
- {
-  "description": "Support is sent once per year",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Yearly",
-  "name": "Yearly"
- },
- {
-  "description": "Support is sent 4 times per year",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Quarterly",
-  "name": "Quarterly"
- },
- {
-  "description": "Support is sent every two months",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Bi-Monthly",
-  "name": "Bi-Monthly"
- },
- {
-  "description": "Support is sent once per month",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Monthly",
-  "name": "Monthly"
- },
- {
-  "description": "Support is sent every two weeks",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Bi-Weekly",
-  "name": "Bi-Weekly"
- },
- {
-  "description": "Support is sent every week",
-  "doctype": "Church Missionary Support Frequency",
-  "frequency": "Weekly",
-  "name": "Weekly"
- }
+  {
+    "description": "Support is sent once per year",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Yearly",
+    "name": "Yearly"
+  },
+  {
+    "description": "Support is sent 4 times per year",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Quarterly",
+    "name": "Quarterly"
+  },
+  {
+    "description": "Support is sent every two months",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Bi-Monthly",
+    "name": "Bi-Monthly"
+  },
+  {
+    "description": "Support is sent once per month",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Monthly",
+    "name": "Monthly"
+  },
+  {
+    "description": "Support is sent every two weeks",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Bi-Weekly",
+    "name": "Bi-Weekly"
+  },
+  {
+    "description": "Support is sent every week",
+    "doctype": "Church Missionary Support Frequency",
+    "frequency": "Weekly",
+    "name": "Weekly"
+  }
 ]

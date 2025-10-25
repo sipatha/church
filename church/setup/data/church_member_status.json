@@ -1,12 +1,12 @@
 [
- {
-  "doctype": "Church Member Status",
-  "name": "Inactive",
-  "status": "Inactive"
- },
- {
-  "doctype": "Church Member Status",
-  "name": "Active",
-  "status": "Active"
- }
+  {
+    "doctype": "Church Member Status",
+    "name": "Inactive",
+    "status": "Inactive"
+  },
+  {
+    "doctype": "Church Member Status",
+    "name": "Active",
+    "status": "Active"
+  }
 ]

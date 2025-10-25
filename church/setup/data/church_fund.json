@@ -1,23 +1,23 @@
 [
- {
-  "balance": 0,
-  "description": "Funds for the building & maintenance of the church.",
-  "doctype": "Church Fund",
-  "fund": "Building",
-  "name": "Building"
- },
- {
-  "balance": 0,
-  "description": "Financial support for missionaries",
-  "doctype": "Church Fund",
-  "fund": "Missions",
-  "name": "Missions"
- },
- {
-  "balance": 0,
-  "description": "Church general fund.",
-  "doctype": "Church Fund",
-  "fund": "General",
-  "name": "General"
- }
+  {
+    "balance": 0,
+    "description": "Funds for the building & maintenance of the church.",
+    "doctype": "Church Fund",
+    "fund": "Building",
+    "name": "Building"
+  },
+  {
+    "balance": 0,
+    "description": "Financial support for missionaries",
+    "doctype": "Church Fund",
+    "fund": "Missions",
+    "name": "Missions"
+  },
+  {
+    "balance": 0,
+    "description": "Church general fund.",
+    "doctype": "Church Fund",
+    "fund": "General",
+    "name": "General"
+  }
 ]

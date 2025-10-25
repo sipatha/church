@@ -1,182 +1,182 @@
 [
- {
-  "abbreviation": "KJV",
-  "doctype": "Church Bible Translation",
-  "name": "King James Version",
-  "translation": "King James Version"
- },
- {
-  "abbreviation": "NIV",
-  "doctype": "Church Bible Translation",
-  "name": "New International Version",
-  "translation": "New International Version"
- },
- {
-  "abbreviation": "ESV",
-  "doctype": "Church Bible Translation",
-  "name": "English Standard Version",
-  "translation": "English Standard Version"
- },
- {
-  "abbreviation": "NLT",
-  "doctype": "Church Bible Translation",
-  "name": "New Living Translation",
-  "translation": "New Living Translation"
- },
- {
-  "abbreviation": "CSB",
-  "doctype": "Church Bible Translation",
-  "name": "Christian Standard Bible",
-  "translation": "Christian Standard Bible"
- },
- {
-  "abbreviation": "NKJV",
-  "doctype": "Church Bible Translation",
-  "name": "New King James Version",
-  "translation": "New King James Version"
- },
- {
-  "abbreviation": "NASB",
-  "doctype": "Church Bible Translation",
-  "name": "New American Standard Bible",
-  "translation": "New American Standard Bible"
- },
- {
-  "abbreviation": "NABRE",
-  "doctype": "Church Bible Translation",
-  "name": "New American Bible Revised Edition",
-  "translation": "New American Bible Revised Edition"
- },
- {
-  "abbreviation": "MSG",
-  "doctype": "Church Bible Translation",
-  "name": "The Message",
-  "translation": "The Message"
- },
- {
-  "abbreviation": "AMP",
-  "doctype": "Church Bible Translation",
-  "name": "Amplified Bible",
-  "translation": "Amplified Bible"
- },
- {
-  "abbreviation": "NRSV",
-  "doctype": "Church Bible Translation",
-  "name": "New Revised Standard Version",
-  "translation": "New Revised Standard Version"
- },
- {
-  "abbreviation": "ASV",
-  "doctype": "Church Bible Translation",
-  "name": "American Standard Version",
-  "translation": "American Standard Version"
- },
- {
-  "abbreviation": "DRB",
-  "doctype": "Church Bible Translation",
-  "name": "Douay-Rheims Bible",
-  "translation": "Douay-Rheims Bible"
- },
- {
-  "abbreviation": "RSV",
-  "doctype": "Church Bible Translation",
-  "name": "Revised Standard Version",
-  "translation": "Revised Standard Version"
- },
- {
-  "abbreviation": "JB",
-  "doctype": "Church Bible Translation",
-  "name": "Jerusalem Bible",
-  "translation": "Jerusalem Bible"
- },
- {
-  "abbreviation": "NJB",
-  "doctype": "Church Bible Translation",
-  "name": "New Jerusalem Bible",
-  "translation": "New Jerusalem Bible"
- },
- {
-  "abbreviation": "CEB",
-  "doctype": "Church Bible Translation",
-  "name": "Common English Bible",
-  "translation": "Common English Bible"
- },
- {
-  "abbreviation": "GNT",
-  "doctype": "Church Bible Translation",
-  "name": "Good News Translation",
-  "translation": "Good News Translation"
- },
- {
-  "abbreviation": "CEV",
-  "doctype": "Church Bible Translation",
-  "name": "Contemporary English Version",
-  "translation": "Contemporary English Version"
- },
- {
-  "abbreviation": "NET",
-  "doctype": "Church Bible Translation",
-  "name": "New English Translation",
-  "translation": "New English Translation"
- },
- {
-  "abbreviation": "NIrV",
-  "doctype": "Church Bible Translation",
-  "name": "New International Reader's Version",
-  "translation": "New International Reader's Version"
- },
- {
-  "abbreviation": "BSB",
-  "doctype": "Church Bible Translation",
-  "name": "Berean Standard Bible",
-  "translation": "Berean Standard Bible"
- },
- {
-  "abbreviation": "CJB",
-  "doctype": "Church Bible Translation",
-  "name": "Complete Jewish Bible",
-  "translation": "Complete Jewish Bible"
- },
- {
-  "abbreviation": "BBE",
-  "doctype": "Church Bible Translation",
-  "name": "Bible in Basic English",
-  "translation": "Bible in Basic English"
- },
- {
-  "abbreviation": "TPT",
-  "doctype": "Church Bible Translation",
-  "name": "The Passion Translation",
-  "translation": "The Passion Translation"
- },
- {
-  "abbreviation": "LIVING",
-  "doctype": "Church Bible Translation",
-  "name": "The Living Bible",
-  "translation": "The Living Bible"
- },
- {
-  "abbreviation": "MEV",
-  "doctype": "Church Bible Translation",
-  "name": "Modern English Version",
-  "translation": "Modern English Version"
- },
- {
-  "abbreviation": "NCV",
-  "doctype": "Church Bible Translation",
-  "name": "New Century Version",
-  "translation": "New Century Version"
- },
- {
-  "abbreviation": "VOICE",
-  "doctype": "Church Bible Translation",
-  "name": "The Voice",
-  "translation": "The Voice"
- },
- {
-  "abbreviation": "WEB ",
-  "doctype": "Church Bible Translation",
-  "name": "World English Bible",
-  "translation": "World English Bible"
- }
+  {
+    "abbreviation": "KJV",
+    "doctype": "Church Bible Translation",
+    "name": "King James Version",
+    "translation": "King James Version"
+  },
+  {
+    "abbreviation": "NIV",
+    "doctype": "Church Bible Translation",
+    "name": "New International Version",
+    "translation": "New International Version"
+  },
+  {
+    "abbreviation": "ESV",
+    "doctype": "Church Bible Translation",
+    "name": "English Standard Version",
+    "translation": "English Standard Version"
+  },
+  {
+    "abbreviation": "NLT",
+    "doctype": "Church Bible Translation",
+    "name": "New Living Translation",
+    "translation": "New Living Translation"
+  },
+  {
+    "abbreviation": "CSB",
+    "doctype": "Church Bible Translation",
+    "name": "Christian Standard Bible",
+    "translation": "Christian Standard Bible"
+  },
+  {
+    "abbreviation": "NKJV",
+    "doctype": "Church Bible Translation",
+    "name": "New King James Version",
+    "translation": "New King James Version"
+  },
+  {
+    "abbreviation": "NASB",
+    "doctype": "Church Bible Translation",
+    "name": "New American Standard Bible",
+    "translation": "New American Standard Bible"
+  },
+  {
+    "abbreviation": "NABRE",
+    "doctype": "Church Bible Translation",
+    "name": "New American Bible Revised Edition",
+    "translation": "New American Bible Revised Edition"
+  },
+  {
+    "abbreviation": "MSG",
+    "doctype": "Church Bible Translation",
+    "name": "The Message",
+    "translation": "The Message"
+  },
+  {
+    "abbreviation": "AMP",
+    "doctype": "Church Bible Translation",
+    "name": "Amplified Bible",
+    "translation": "Amplified Bible"
+  },
+  {
+    "abbreviation": "NRSV",
+    "doctype": "Church Bible Translation",
+    "name": "New Revised Standard Version",
+    "translation": "New Revised Standard Version"
+  },
+  {
+    "abbreviation": "ASV",
+    "doctype": "Church Bible Translation",
+    "name": "American Standard Version",
+    "translation": "American Standard Version"
+  },
+  {
+    "abbreviation": "DRB",
+    "doctype": "Church Bible Translation",
+    "name": "Douay-Rheims Bible",
+    "translation": "Douay-Rheims Bible"
+  },
+  {
+    "abbreviation": "RSV",
+    "doctype": "Church Bible Translation",
+    "name": "Revised Standard Version",
+    "translation": "Revised Standard Version"
+  },
+  {
+    "abbreviation": "JB",
+    "doctype": "Church Bible Translation",
+    "name": "Jerusalem Bible",
+    "translation": "Jerusalem Bible"
+  },
+  {
+    "abbreviation": "NJB",
+    "doctype": "Church Bible Translation",
+    "name": "New Jerusalem Bible",
+    "translation": "New Jerusalem Bible"
+  },
+  {
+    "abbreviation": "CEB",
+    "doctype": "Church Bible Translation",
+    "name": "Common English Bible",
+    "translation": "Common English Bible"
+  },
+  {
+    "abbreviation": "GNT",
+    "doctype": "Church Bible Translation",
+    "name": "Good News Translation",
+    "translation": "Good News Translation"
+  },
+  {
+    "abbreviation": "CEV",
+    "doctype": "Church Bible Translation",
+    "name": "Contemporary English Version",
+    "translation": "Contemporary English Version"
+  },
+  {
+    "abbreviation": "NET",
+    "doctype": "Church Bible Translation",
+    "name": "New English Translation",
+    "translation": "New English Translation"
+  },
+  {
+    "abbreviation": "NIrV",
+    "doctype": "Church Bible Translation",
+    "name": "New International Reader's Version",
+    "translation": "New International Reader's Version"
+  },
+  {
+    "abbreviation": "BSB",
+    "doctype": "Church Bible Translation",
+    "name": "Berean Standard Bible",
+    "translation": "Berean Standard Bible"
+  },
+  {
+    "abbreviation": "CJB",
+    "doctype": "Church Bible Translation",
+    "name": "Complete Jewish Bible",
+    "translation": "Complete Jewish Bible"
+  },
+  {
+    "abbreviation": "BBE",
+    "doctype": "Church Bible Translation",
+    "name": "Bible in Basic English",
+    "translation": "Bible in Basic English"
+  },
+  {
+    "abbreviation": "TPT",
+    "doctype": "Church Bible Translation",
+    "name": "The Passion Translation",
+    "translation": "The Passion Translation"
+  },
+  {
+    "abbreviation": "LIVING",
+    "doctype": "Church Bible Translation",
+    "name": "The Living Bible",
+    "translation": "The Living Bible"
+  },
+  {
+    "abbreviation": "MEV",
+    "doctype": "Church Bible Translation",
+    "name": "Modern English Version",
+    "translation": "Modern English Version"
+  },
+  {
+    "abbreviation": "NCV",
+    "doctype": "Church Bible Translation",
+    "name": "New Century Version",
+    "translation": "New Century Version"
+  },
+  {
+    "abbreviation": "VOICE",
+    "doctype": "Church Bible Translation",
+    "name": "The Voice",
+    "translation": "The Voice"
+  },
+  {
+    "abbreviation": "WEB ",
+    "doctype": "Church Bible Translation",
+    "name": "World English Bible",
+    "translation": "World English Bible"
+  }
 ]

@@ -1,20 +1,20 @@
 [
- {
-  "description": "The prayer request has been requested",
-  "doctype": "Church Prayer Request Status",
-  "name": "Requested",
-  "status": "Requested"
- },
- {
-  "description": "The prayer request is being prayed for",
-  "doctype": "Church Prayer Request Status",
-  "name": "Being Prayed For",
-  "status": "Being Prayed For"
- },
- {
-  "description": "The prayer request has been answered",
-  "doctype": "Church Prayer Request Status",
-  "name": "Answered",
-  "status": "Answered"
- }
+  {
+    "description": "The prayer request has been requested",
+    "doctype": "Church Prayer Request Status",
+    "name": "Requested",
+    "status": "Requested"
+  },
+  {
+    "description": "The prayer request is being prayed for",
+    "doctype": "Church Prayer Request Status",
+    "name": "Being Prayed For",
+    "status": "Being Prayed For"
+  },
+  {
+    "description": "The prayer request has been answered",
+    "doctype": "Church Prayer Request Status",
+    "name": "Answered",
+    "status": "Answered"
+  }
 ]

@@ -1,12 +1,12 @@
 [
- {
-  "doctype": "Church Payment Type",
-  "name": "Check",
-  "type": "Check"
- },
- {
-  "doctype": "Church Payment Type",
-  "name": "Cash",
-  "type": "Cash"
- }
+  {
+    "doctype": "Church Payment Type",
+    "name": "Check",
+    "type": "Check"
+  },
+  {
+    "doctype": "Church Payment Type",
+    "name": "Cash",
+    "type": "Cash"
+  }
 ]

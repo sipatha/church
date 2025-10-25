@@ -1,465 +1,465 @@
 [
- {
-  "abbreviation": "Rev",
-  "book": "Revelation",
-  "doctype": "Church Bible Book",
-  "name": "Revelation",
-  "number_of_chapters": 22
- },
- {
-  "abbreviation": "Jude",
-  "book": "Jude",
-  "doctype": "Church Bible Book",
-  "name": "Jude",
-  "number_of_chapters": 1
- },
- {
-  "abbreviation": "3 John",
-  "book": "3 John",
-  "doctype": "Church Bible Book",
-  "name": "3 John",
-  "number_of_chapters": 1
- },
- {
-  "abbreviation": "2 John",
-  "book": "2 John",
-  "doctype": "Church Bible Book",
-  "name": "2 John",
-  "number_of_chapters": 1
- },
- {
-  "abbreviation": "1 John",
-  "book": "1 John",
-  "doctype": "Church Bible Book",
-  "name": "1 John",
-  "number_of_chapters": 5
- },
- {
-  "abbreviation": "2 Pet.",
-  "book": "2 Peter",
-  "doctype": "Church Bible Book",
-  "name": "2 Peter",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "1 Pet.",
-  "book": "1 Peter",
-  "doctype": "Church Bible Book",
-  "name": "1 Peter",
-  "number_of_chapters": 5
- },
- {
-  "abbreviation": "James",
-  "book": "James",
-  "doctype": "Church Bible Book",
-  "name": "James",
-  "number_of_chapters": 5
- },
- {
-  "abbreviation": "Heb.",
-  "book": "Hebrews",
-  "doctype": "Church Bible Book",
-  "name": "Hebrews",
-  "number_of_chapters": 13
- },
- {
-  "abbreviation": "Philem.",
-  "book": "Philemon",
-  "doctype": "Church Bible Book",
-  "name": "Philemon",
-  "number_of_chapters": 1
- },
- {
-  "abbreviation": "Titus",
-  "book": "Titus",
-  "doctype": "Church Bible Book",
-  "name": "Titus",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "2 Tim.",
-  "book": "2 Timothy",
-  "doctype": "Church Bible Book",
-  "name": "2 Timothy",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "1 Tim.",
-  "book": "1 Timothy",
-  "doctype": "Church Bible Book",
-  "name": "1 Timothy",
-  "number_of_chapters": 6
- },
- {
-  "abbreviation": "2 Thess.",
-  "book": "2 Thessalonians",
-  "doctype": "Church Bible Book",
-  "name": "2 Thessalonians",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "1 Thess.",
-  "book": "1 Thessalonians",
-  "doctype": "Church Bible Book",
-  "name": "1 Thessalonians",
-  "number_of_chapters": 5
- },
- {
-  "abbreviation": "Col.",
-  "book": "Colossians",
-  "doctype": "Church Bible Book",
-  "name": "Colossians",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "Phil.",
-  "book": "Philippians",
-  "doctype": "Church Bible Book",
-  "name": "Philippians",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "Eph.",
-  "book": "Ephesians",
-  "doctype": "Church Bible Book",
-  "name": "Ephesians",
-  "number_of_chapters": 6
- },
- {
-  "abbreviation": "Gal.",
-  "book": "Galatians",
-  "doctype": "Church Bible Book",
-  "name": "Galatians",
-  "number_of_chapters": 6
- },
- {
-  "abbreviation": "2 Cor.",
-  "book": "2 Corinthians",
-  "doctype": "Church Bible Book",
-  "name": "2 Corinthians",
-  "number_of_chapters": 13
- },
- {
-  "abbreviation": "1 Cor.",
-  "book": "1 Corinthians",
-  "doctype": "Church Bible Book",
-  "name": "1 Corinthians",
-  "number_of_chapters": 16
- },
- {
-  "abbreviation": "Rom.",
-  "book": "Romans",
-  "doctype": "Church Bible Book",
-  "name": "Romans",
-  "number_of_chapters": 16
- },
- {
-  "abbreviation": "Acts",
-  "book": "Acts",
-  "doctype": "Church Bible Book",
-  "name": "Acts",
-  "number_of_chapters": 28
- },
- {
-  "abbreviation": "John",
-  "book": "John",
-  "doctype": "Church Bible Book",
-  "name": "John",
-  "number_of_chapters": 21
- },
- {
-  "abbreviation": "Luke",
-  "book": "Luke",
-  "doctype": "Church Bible Book",
-  "name": "Luke",
-  "number_of_chapters": 24
- },
- {
-  "abbreviation": "Mark",
-  "book": "Mark",
-  "doctype": "Church Bible Book",
-  "name": "Mark",
-  "number_of_chapters": 16
- },
- {
-  "abbreviation": "Matt.",
-  "book": "Matthew",
-  "doctype": "Church Bible Book",
-  "name": "Matthew",
-  "number_of_chapters": 28
- },
- {
-  "abbreviation": "Mal.",
-  "book": "Malachi",
-  "doctype": "Church Bible Book",
-  "name": "Malachi",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "Zech.",
-  "book": "Zechariah",
-  "doctype": "Church Bible Book",
-  "name": "Zechariah",
-  "number_of_chapters": 14
- },
- {
-  "abbreviation": "Hag.",
-  "book": "Haggai",
-  "doctype": "Church Bible Book",
-  "name": "Haggai",
-  "number_of_chapters": 2
- },
- {
-  "abbreviation": "Zeph.",
-  "book": "Zephaniah",
-  "doctype": "Church Bible Book",
-  "name": "Zephaniah",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "Hab.",
-  "book": "Habakkuk",
-  "doctype": "Church Bible Book",
-  "name": "Habakkuk",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "Nah.",
-  "book": "Nahum",
-  "doctype": "Church Bible Book",
-  "name": "Nahum",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "Mic.",
-  "book": "Micah",
-  "doctype": "Church Bible Book",
-  "name": "Micah",
-  "number_of_chapters": 7
- },
- {
-  "abbreviation": "Jonah",
-  "book": "Jonah",
-  "doctype": "Church Bible Book",
-  "name": "Jonah",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "Obad.",
-  "book": "Obadiah",
-  "doctype": "Church Bible Book",
-  "name": "Obadiah",
-  "number_of_chapters": 1
- },
- {
-  "abbreviation": "Amos",
-  "book": "Amos",
-  "doctype": "Church Bible Book",
-  "name": "Amos",
-  "number_of_chapters": 9
- },
- {
-  "abbreviation": "Joel",
-  "book": "Joel",
-  "doctype": "Church Bible Book",
-  "name": "Joel",
-  "number_of_chapters": 3
- },
- {
-  "abbreviation": "Hos.",
-  "book": "Hosea",
-  "doctype": "Church Bible Book",
-  "name": "Hosea",
-  "number_of_chapters": 14
- },
- {
-  "abbreviation": "Dan.",
-  "book": "Daniel",
-  "doctype": "Church Bible Book",
-  "name": "Daniel",
-  "number_of_chapters": 12
- },
- {
-  "abbreviation": "Ezek.",
-  "book": "Ezekiel",
-  "doctype": "Church Bible Book",
-  "name": "Ezekiel",
-  "number_of_chapters": 48
- },
- {
-  "abbreviation": "Lam.",
-  "book": "Lamentations",
-  "doctype": "Church Bible Book",
-  "name": "Lamentations",
-  "number_of_chapters": 5
- },
- {
-  "abbreviation": "Jer.",
-  "book": "Jeremiah",
-  "doctype": "Church Bible Book",
-  "name": "Jeremiah",
-  "number_of_chapters": 52
- },
- {
-  "abbreviation": "Isa.",
-  "book": "Isaiah",
-  "doctype": "Church Bible Book",
-  "name": "Isaiah",
-  "number_of_chapters": 66
- },
- {
-  "abbreviation": "Song",
-  "book": "Song of Solomon",
-  "doctype": "Church Bible Book",
-  "name": "Song of Solomon",
-  "number_of_chapters": 8
- },
- {
-  "abbreviation": "Eccles.",
-  "book": "Ecclesiastes",
-  "doctype": "Church Bible Book",
-  "name": "Ecclesiastes",
-  "number_of_chapters": 12
- },
- {
-  "abbreviation": "Prov.",
-  "book": "Proverbs",
-  "doctype": "Church Bible Book",
-  "name": "Proverbs",
-  "number_of_chapters": 31
- },
- {
-  "abbreviation": "Ps.",
-  "book": "Psalms",
-  "doctype": "Church Bible Book",
-  "name": "Psalms",
-  "number_of_chapters": 150
- },
- {
-  "abbreviation": "Job",
-  "book": "Job",
-  "doctype": "Church Bible Book",
-  "name": "Job",
-  "number_of_chapters": 42
- },
- {
-  "abbreviation": "Est.",
-  "book": "Esther",
-  "doctype": "Church Bible Book",
-  "name": "Esther",
-  "number_of_chapters": 10
- },
- {
-  "abbreviation": "Neh.",
-  "book": "Nehemiah",
-  "doctype": "Church Bible Book",
-  "name": "Nehemiah",
-  "number_of_chapters": 13
- },
- {
-  "abbreviation": "Ezra",
-  "book": "Ezra",
-  "doctype": "Church Bible Book",
-  "name": "Ezra",
-  "number_of_chapters": 10
- },
- {
-  "abbreviation": "2 Chron.",
-  "book": "2 Chronicles",
-  "doctype": "Church Bible Book",
-  "name": "2 Chronicles",
-  "number_of_chapters": 36
- },
- {
-  "abbreviation": "1 Chron.",
-  "book": "1 Chronicles",
-  "doctype": "Church Bible Book",
-  "name": "1 Chronicles",
-  "number_of_chapters": 29
- },
- {
-  "abbreviation": "2 Kgs.",
-  "book": "2 Kings",
-  "doctype": "Church Bible Book",
-  "name": "2 Kings",
-  "number_of_chapters": 25
- },
- {
-  "abbreviation": "1 Kgs.",
-  "book": "1 Kings",
-  "doctype": "Church Bible Book",
-  "name": "1 Kings",
-  "number_of_chapters": 22
- },
- {
-  "abbreviation": "2 Sam.",
-  "book": "2 Samuel",
-  "doctype": "Church Bible Book",
-  "name": "2 Samuel",
-  "number_of_chapters": 24
- },
- {
-  "abbreviation": "1 Sam.",
-  "book": "1 Samuel",
-  "doctype": "Church Bible Book",
-  "name": "1 Samuel",
-  "number_of_chapters": 31
- },
- {
-  "abbreviation": "Ruth",
-  "book": "Ruth",
-  "doctype": "Church Bible Book",
-  "name": "Ruth",
-  "number_of_chapters": 4
- },
- {
-  "abbreviation": "Judg.",
-  "book": "Judges",
-  "doctype": "Church Bible Book",
-  "name": "Judges",
-  "number_of_chapters": 21
- },
- {
-  "abbreviation": "Josh.",
-  "book": "Joshua",
-  "doctype": "Church Bible Book",
-  "name": "Joshua",
-  "number_of_chapters": 24
- },
- {
-  "abbreviation": "Deut.",
-  "book": "Deuteronomy",
-  "doctype": "Church Bible Book",
-  "name": "Deuteronomy",
-  "number_of_chapters": 34
- },
- {
-  "abbreviation": "Num.",
-  "book": "Numbers",
-  "doctype": "Church Bible Book",
-  "name": "Numbers",
-  "number_of_chapters": 36
- },
- {
-  "abbreviation": "Lev.",
-  "book": "Leviticus",
-  "doctype": "Church Bible Book",
-  "name": "Leviticus",
-  "number_of_chapters": 27
- },
- {
-  "abbreviation": "Ex.",
-  "book": "Exodus",
-  "doctype": "Church Bible Book",
-  "name": "Exodus",
-  "number_of_chapters": 40
- },
- {
-  "abbreviation": "Gen.",
-  "book": "Genesis",
-  "doctype": "Church Bible Book",
-  "modified": "2025-09-17 22:38:31.570664",
-  "name": "Genesis",
-  "number_of_chapters": 50
- }
+  {
+    "abbreviation": "Rev",
+    "book": "Revelation",
+    "doctype": "Church Bible Book",
+    "name": "Revelation",
+    "number_of_chapters": 22
+  },
+  {
+    "abbreviation": "Jude",
+    "book": "Jude",
+    "doctype": "Church Bible Book",
+    "name": "Jude",
+    "number_of_chapters": 1
+  },
+  {
+    "abbreviation": "3 John",
+    "book": "3 John",
+    "doctype": "Church Bible Book",
+    "name": "3 John",
+    "number_of_chapters": 1
+  },
+  {
+    "abbreviation": "2 John",
+    "book": "2 John",
+    "doctype": "Church Bible Book",
+    "name": "2 John",
+    "number_of_chapters": 1
+  },
+  {
+    "abbreviation": "1 John",
+    "book": "1 John",
+    "doctype": "Church Bible Book",
+    "name": "1 John",
+    "number_of_chapters": 5
+  },
+  {
+    "abbreviation": "2 Pet.",
+    "book": "2 Peter",
+    "doctype": "Church Bible Book",
+    "name": "2 Peter",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "1 Pet.",
+    "book": "1 Peter",
+    "doctype": "Church Bible Book",
+    "name": "1 Peter",
+    "number_of_chapters": 5
+  },
+  {
+    "abbreviation": "James",
+    "book": "James",
+    "doctype": "Church Bible Book",
+    "name": "James",
+    "number_of_chapters": 5
+  },
+  {
+    "abbreviation": "Heb.",
+    "book": "Hebrews",
+    "doctype": "Church Bible Book",
+    "name": "Hebrews",
+    "number_of_chapters": 13
+  },
+  {
+    "abbreviation": "Philem.",
+    "book": "Philemon",
+    "doctype": "Church Bible Book",
+    "name": "Philemon",
+    "number_of_chapters": 1
+  },
+  {
+    "abbreviation": "Titus",
+    "book": "Titus",
+    "doctype": "Church Bible Book",
+    "name": "Titus",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "2 Tim.",
+    "book": "2 Timothy",
+    "doctype": "Church Bible Book",
+    "name": "2 Timothy",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "1 Tim.",
+    "book": "1 Timothy",
+    "doctype": "Church Bible Book",
+    "name": "1 Timothy",
+    "number_of_chapters": 6
+  },
+  {
+    "abbreviation": "2 Thess.",
+    "book": "2 Thessalonians",
+    "doctype": "Church Bible Book",
+    "name": "2 Thessalonians",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "1 Thess.",
+    "book": "1 Thessalonians",
+    "doctype": "Church Bible Book",
+    "name": "1 Thessalonians",
+    "number_of_chapters": 5
+  },
+  {
+    "abbreviation": "Col.",
+    "book": "Colossians",
+    "doctype": "Church Bible Book",
+    "name": "Colossians",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "Phil.",
+    "book": "Philippians",
+    "doctype": "Church Bible Book",
+    "name": "Philippians",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "Eph.",
+    "book": "Ephesians",
+    "doctype": "Church Bible Book",
+    "name": "Ephesians",
+    "number_of_chapters": 6
+  },
+  {
+    "abbreviation": "Gal.",
+    "book": "Galatians",
+    "doctype": "Church Bible Book",
+    "name": "Galatians",
+    "number_of_chapters": 6
+  },
+  {
+    "abbreviation": "2 Cor.",
+    "book": "2 Corinthians",
+    "doctype": "Church Bible Book",
+    "name": "2 Corinthians",
+    "number_of_chapters": 13
+  },
+  {
+    "abbreviation": "1 Cor.",
+    "book": "1 Corinthians",
+    "doctype": "Church Bible Book",
+    "name": "1 Corinthians",
+    "number_of_chapters": 16
+  },
+  {
+    "abbreviation": "Rom.",
+    "book": "Romans",
+    "doctype": "Church Bible Book",
+    "name": "Romans",
+    "number_of_chapters": 16
+  },
+  {
+    "abbreviation": "Acts",
+    "book": "Acts",
+    "doctype": "Church Bible Book",
+    "name": "Acts",
+    "number_of_chapters": 28
+  },
+  {
+    "abbreviation": "John",
+    "book": "John",
+    "doctype": "Church Bible Book",
+    "name": "John",
+    "number_of_chapters": 21
+  },
+  {
+    "abbreviation": "Luke",
+    "book": "Luke",
+    "doctype": "Church Bible Book",
+    "name": "Luke",
+    "number_of_chapters": 24
+  },
+  {
+    "abbreviation": "Mark",
+    "book": "Mark",
+    "doctype": "Church Bible Book",
+    "name": "Mark",
+    "number_of_chapters": 16
+  },
+  {
+    "abbreviation": "Matt.",
+    "book": "Matthew",
+    "doctype": "Church Bible Book",
+    "name": "Matthew",
+    "number_of_chapters": 28
+  },
+  {
+    "abbreviation": "Mal.",
+    "book": "Malachi",
+    "doctype": "Church Bible Book",
+    "name": "Malachi",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "Zech.",
+    "book": "Zechariah",
+    "doctype": "Church Bible Book",
+    "name": "Zechariah",
+    "number_of_chapters": 14
+  },
+  {
+    "abbreviation": "Hag.",
+    "book": "Haggai",
+    "doctype": "Church Bible Book",
+    "name": "Haggai",
+    "number_of_chapters": 2
+  },
+  {
+    "abbreviation": "Zeph.",
+    "book": "Zephaniah",
+    "doctype": "Church Bible Book",
+    "name": "Zephaniah",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "Hab.",
+    "book": "Habakkuk",
+    "doctype": "Church Bible Book",
+    "name": "Habakkuk",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "Nah.",
+    "book": "Nahum",
+    "doctype": "Church Bible Book",
+    "name": "Nahum",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "Mic.",
+    "book": "Micah",
+    "doctype": "Church Bible Book",
+    "name": "Micah",
+    "number_of_chapters": 7
+  },
+  {
+    "abbreviation": "Jonah",
+    "book": "Jonah",
+    "doctype": "Church Bible Book",
+    "name": "Jonah",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "Obad.",
+    "book": "Obadiah",
+    "doctype": "Church Bible Book",
+    "name": "Obadiah",
+    "number_of_chapters": 1
+  },
+  {
+    "abbreviation": "Amos",
+    "book": "Amos",
+    "doctype": "Church Bible Book",
+    "name": "Amos",
+    "number_of_chapters": 9
+  },
+  {
+    "abbreviation": "Joel",
+    "book": "Joel",
+    "doctype": "Church Bible Book",
+    "name": "Joel",
+    "number_of_chapters": 3
+  },
+  {
+    "abbreviation": "Hos.",
+    "book": "Hosea",
+    "doctype": "Church Bible Book",
+    "name": "Hosea",
+    "number_of_chapters": 14
+  },
+  {
+    "abbreviation": "Dan.",
+    "book": "Daniel",
+    "doctype": "Church Bible Book",
+    "name": "Daniel",
+    "number_of_chapters": 12
+  },
+  {
+    "abbreviation": "Ezek.",
+    "book": "Ezekiel",
+    "doctype": "Church Bible Book",
+    "name": "Ezekiel",
+    "number_of_chapters": 48
+  },
+  {
+    "abbreviation": "Lam.",
+    "book": "Lamentations",
+    "doctype": "Church Bible Book",
+    "name": "Lamentations",
+    "number_of_chapters": 5
+  },
+  {
+    "abbreviation": "Jer.",
+    "book": "Jeremiah",
+    "doctype": "Church Bible Book",
+    "name": "Jeremiah",
+    "number_of_chapters": 52
+  },
+  {
+    "abbreviation": "Isa.",
+    "book": "Isaiah",
+    "doctype": "Church Bible Book",
+    "name": "Isaiah",
+    "number_of_chapters": 66
+  },
+  {
+    "abbreviation": "Song",
+    "book": "Song of Solomon",
+    "doctype": "Church Bible Book",
+    "name": "Song of Solomon",
+    "number_of_chapters": 8
+  },
+  {
+    "abbreviation": "Eccles.",
+    "book": "Ecclesiastes",
+    "doctype": "Church Bible Book",
+    "name": "Ecclesiastes",
+    "number_of_chapters": 12
+  },
+  {
+    "abbreviation": "Prov.",
+    "book": "Proverbs",
+    "doctype": "Church Bible Book",
+    "name": "Proverbs",
+    "number_of_chapters": 31
+  },
+  {
+    "abbreviation": "Ps.",
+    "book": "Psalms",
+    "doctype": "Church Bible Book",
+    "name": "Psalms",
+    "number_of_chapters": 150
+  },
+  {
+    "abbreviation": "Job",
+    "book": "Job",
+    "doctype": "Church Bible Book",
+    "name": "Job",
+    "number_of_chapters": 42
+  },
+  {
+    "abbreviation": "Est.",
+    "book": "Esther",
+    "doctype": "Church Bible Book",
+    "name": "Esther",
+    "number_of_chapters": 10
+  },
+  {
+    "abbreviation": "Neh.",
+    "book": "Nehemiah",
+    "doctype": "Church Bible Book",
+    "name": "Nehemiah",
+    "number_of_chapters": 13
+  },
+  {
+    "abbreviation": "Ezra",
+    "book": "Ezra",
+    "doctype": "Church Bible Book",
+    "name": "Ezra",
+    "number_of_chapters": 10
+  },
+  {
+    "abbreviation": "2 Chron.",
+    "book": "2 Chronicles",
+    "doctype": "Church Bible Book",
+    "name": "2 Chronicles",
+    "number_of_chapters": 36
+  },
+  {
+    "abbreviation": "1 Chron.",
+    "book": "1 Chronicles",
+    "doctype": "Church Bible Book",
+    "name": "1 Chronicles",
+    "number_of_chapters": 29
+  },
+  {
+    "abbreviation": "2 Kgs.",
+    "book": "2 Kings",
+    "doctype": "Church Bible Book",
+    "name": "2 Kings",
+    "number_of_chapters": 25
+  },
+  {
+    "abbreviation": "1 Kgs.",
+    "book": "1 Kings",
+    "doctype": "Church Bible Book",
+    "name": "1 Kings",
+    "number_of_chapters": 22
+  },
+  {
+    "abbreviation": "2 Sam.",
+    "book": "2 Samuel",
+    "doctype": "Church Bible Book",
+    "name": "2 Samuel",
+    "number_of_chapters": 24
+  },
+  {
+    "abbreviation": "1 Sam.",
+    "book": "1 Samuel",
+    "doctype": "Church Bible Book",
+    "name": "1 Samuel",
+    "number_of_chapters": 31
+  },
+  {
+    "abbreviation": "Ruth",
+    "book": "Ruth",
+    "doctype": "Church Bible Book",
+    "name": "Ruth",
+    "number_of_chapters": 4
+  },
+  {
+    "abbreviation": "Judg.",
+    "book": "Judges",
+    "doctype": "Church Bible Book",
+    "name": "Judges",
+    "number_of_chapters": 21
+  },
+  {
+    "abbreviation": "Josh.",
+    "book": "Joshua",
+    "doctype": "Church Bible Book",
+    "name": "Joshua",
+    "number_of_chapters": 24
+  },
+  {
+    "abbreviation": "Deut.",
+    "book": "Deuteronomy",
+    "doctype": "Church Bible Book",
+    "name": "Deuteronomy",
+    "number_of_chapters": 34
+  },
+  {
+    "abbreviation": "Num.",
+    "book": "Numbers",
+    "doctype": "Church Bible Book",
+    "name": "Numbers",
+    "number_of_chapters": 36
+  },
+  {
+    "abbreviation": "Lev.",
+    "book": "Leviticus",
+    "doctype": "Church Bible Book",
+    "name": "Leviticus",
+    "number_of_chapters": 27
+  },
+  {
+    "abbreviation": "Ex.",
+    "book": "Exodus",
+    "doctype": "Church Bible Book",
+    "name": "Exodus",
+    "number_of_chapters": 40
+  },
+  {
+    "abbreviation": "Gen.",
+    "book": "Genesis",
+    "doctype": "Church Bible Book",
+    "modified": "2025-09-17 22:38:31.570664",
+    "name": "Genesis",
+    "number_of_chapters": 50
+  }
 ]

@@ -1,26 +1,26 @@
 [
- {
-  "description": "It is unknown if the `Church Person` was present.",
-  "doctype": "Church Event Attendance Type",
-  "name": "Unknown",
-  "type": "Unknown"
- },
- {
-  "description": "`Church Person` was absent.",
-  "doctype": "Church Event Attendance Type",
-  "name": "Absent",
-  "type": "Absent"
- },
- {
-  "description": "The `Church Person` was assumed to be present.",
-  "doctype": "Church Event Attendance Type",
-  "name": "Assumed",
-  "type": "Assumed"
- },
- {
-  "description": "The `Church Person` was confirmed to be present.",
-  "doctype": "Church Event Attendance Type",
-  "name": "Confirmed",
-  "type": "Confirmed"
- }
+  {
+    "description": "It is unknown if the `Church Person` was present.",
+    "doctype": "Church Event Attendance Type",
+    "name": "Unknown",
+    "type": "Unknown"
+  },
+  {
+    "description": "`Church Person` was absent.",
+    "doctype": "Church Event Attendance Type",
+    "name": "Absent",
+    "type": "Absent"
+  },
+  {
+    "description": "The `Church Person` was assumed to be present.",
+    "doctype": "Church Event Attendance Type",
+    "name": "Assumed",
+    "type": "Assumed"
+  },
+  {
+    "description": "The `Church Person` was confirmed to be present.",
+    "doctype": "Church Event Attendance Type",
+    "name": "Confirmed",
+    "type": "Confirmed"
+  }
 ]
