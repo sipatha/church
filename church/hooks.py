@@ -87,7 +87,8 @@ app_include_icons = ["church/icons/custom_icons.svg"]
 # before_install = "install.before_install"
 # after_install = "install.after_install"
 after_install = [
-	"church.setup.install.import_initial_data"
+	"church.setup.install.import_initial_data",
+	"church.setup.cleanup.gender"
 ]
 
 # Uninstallation
