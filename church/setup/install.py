@@ -3,7 +3,7 @@ import json
 
 import frappe
 
-initial_data_list = [
+church_data_list = [
 	"role.json",
 	"role_profile.json",
 	"church_bible_book.json",
@@ -29,11 +29,11 @@ initial_data_list = [
 	"church_fund.json"
 ]
 
-def import_initial_data():
+def church_data():
 
-	for initial_data in initial_data_list:
+	for church_data_file in church_data_list:
 
-		with open(os.path.join(os.path.dirname(__file__), "data", initial_data), 'r') as initial_data_file:
+		with open(os.path.join(os.path.dirname(__file__), "data", church_data_file), 'r') as initial_data_file:
 			data = json.load(initial_data_file)
 
 			for _, record in enumerate(data, start = 1):
