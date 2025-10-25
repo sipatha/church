@@ -4,6 +4,8 @@ import json
 import frappe
 
 initial_data_list = [
+	"role.json",
+	"role_profile.json",
 	"church_bible_book.json",
 	"church_bible_translation.json",
 	"church_event_attendance_type.json",
@@ -22,8 +24,6 @@ initial_data_list = [
 	"module_onboarding.json",
 	"module_profile.json",
 	"onboarding_step.json",
-	"role.json",
-	"role_profile.json",
 	"web_page.json",
 	"website_settings.json",
 	"church_fund.json"
