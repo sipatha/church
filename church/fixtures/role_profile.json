@@ -1,44 +1,40 @@
 [
- {
-  "docstatus": 0,
-  "doctype": "Role Profile",
-  "modified": "2025-10-02 01:06:32.950462",
-  "name": "Church Manager",
-  "role_profile": "Church Manager",
-  "roles": [
-   {
-    "parent": "Church Manager",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
-    "role": "Church Manager"
-   },
-   {
-    "parent": "Church Manager",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
-    "role": "Church User"
-   },
-   {
-    "parent": "Church Manager",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
-    "role": "Website Manager"
-   }
-  ]
- },
- {
-  "docstatus": 0,
-  "doctype": "Role Profile",
-  "modified": "2025-09-13 23:45:22.082001",
-  "name": "Church User",
-  "role_profile": "Church User",
-  "roles": [
-   {
-    "parent": "Church User",
-    "parentfield": "roles",
-    "parenttype": "Role Profile",
-    "role": "Church User"
-   }
-  ]
- }
+  {
+    "doctype": "Role Profile",
+    "name": "Church Manager",
+    "role_profile": "Church Manager",
+    "roles": [
+      {
+        "parent": "Church Manager",
+        "parentfield": "roles",
+        "parenttype": "Role Profile",
+        "role": "Church Manager"
+      },
+      {
+        "parent": "Church Manager",
+        "parentfield": "roles",
+        "parenttype": "Role Profile",
+        "role": "Church User"
+      },
+      {
+        "parent": "Church Manager",
+        "parentfield": "roles",
+        "parenttype": "Role Profile",
+        "role": "Website Manager"
+      }
+    ]
+  },
+  {
+    "doctype": "Role Profile",
+    "name": "Church User",
+    "role_profile": "Church User",
+    "roles": [
+      {
+        "parent": "Church User",
+        "parentfield": "roles",
+        "parenttype": "Role Profile",
+        "role": "Church User"
+      }
+    ]
+  }
 ]
