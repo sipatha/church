@@ -45,11 +45,14 @@ def church_data():
 				if not name:
 					doc.insert()
 				else:
-					exists = frappe.db.exists(dt, name)
+					try:
+						doc = frappe.get_doc(dt, name)
 
-					if exists:
+						for key, value in record.items():
+							setattr(doc, key, value)
+
 						doc.save()
-					else:
+					except frappe.DoesNotExistError:
 						doc.insert()
 
 			frappe.db.commit()
